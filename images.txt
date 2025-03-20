@@ -1,4 +1,4 @@
-node:18.20.7-bullseye
+maven:3.9.9-amazoncorretto-8-debian
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
